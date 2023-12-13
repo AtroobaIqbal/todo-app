@@ -49,4 +49,4 @@ console.log("🚀 ~ file: todo.js:20 ~ inp:", inp.getAttribute("type"))
 
 
 
-// i think its better
+// do not use thi file
